@@ -27,9 +27,9 @@ ext install esbenp.prettier-vscode
 
 
 ### Commands:
-Ones you have node installed in your system, all you need is to execute the commands below
+Ones you have node installed in your syste and have followed the installation steps above, all you need is to execute the commands below
 ```
-1.
+1. npm install
 
 ```
 ## Running the tests
