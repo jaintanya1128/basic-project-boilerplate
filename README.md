@@ -1,4 +1,4 @@
-# Project Title
+# Basic Project Boilerplate
 
 This project is aimed to setup the basic project boilerplate with all the code quality check in place along with consistent coding style.
 
