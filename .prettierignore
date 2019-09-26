@@ -1,0 +1,9 @@
+.git
+.npmrc
+.yarnrc
+.atom
+.vscode
+.editorconfig
+.eslintrc*
+node_modules
+package-lock.json

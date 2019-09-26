@@ -1,0 +1,27 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "One Paragraph of project description goes here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier-js": "prettier --write web/webroot/WEB-INF/_ui-src/responsive/legrand-fe-source/js**/*.js",
+    "prettier-scss": "prettier --write web/webroot/WEB-INF/_ui-src/responsive/legrand-fe-source/scss**/*.scss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.2.0"
+  }
+}
